@@ -20,6 +20,15 @@ To run the Task Manager locally, follow these steps:
 2. Navigate to the project directory.
 3. Run the Python script.
 
+### Screenshots:
+
+![Screenshot 1](https://github.com/adamlacey/finalCapstone/assets/153545317/3313cc3d-e914-4b6e-b3d9-9e91c8510107)
+![Screenshot 2](https://github.com/adamlacey/finalCapstone/assets/153545317/4beb102b-5fb0-4ff6-ab8d-23c86d0b7ad2)
+![Screenshot 3](https://github.com/adamlacey/finalCapstone/assets/153545317/fc5c6e1a-4878-4135-af45-97030064d214)
+![Screenshot 4](https://github.com/adamlacey/finalCapstone/assets/153545317/0a08c3b8-1b03-420f-9b69-d6be5af9155d)
+![Screenshot 5](https://github.com/adamlacey/finalCapstone/assets/153545317/7315c025-16a4-4b4b-b27d-aa7d61691f9f)
+![Screenshot 6](https://github.com/adamlacey/finalCapstone/assets/153545317/5f562fe0-a608-42e9-b9b2-540c1242abf5)
+
 ### Usage:
 
 After installing the Task Manager, you can use the following commands:
